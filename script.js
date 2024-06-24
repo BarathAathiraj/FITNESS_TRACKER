@@ -37,7 +37,5 @@ function displayLoggedActivities() {
 
 // Function to update the progress chart
 function updateProgressChart() {
-  // TO DO: Implement chart.js or a similar library to display the progress chart
-  // For now, let's just log the data to the console
-  console.log(loggedActivities);
+ console.log(loggedActivities);
 }
